@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Mao
+landing-title: 'hello👋，欢迎阅读王建超的个人简介'
 description: null
 image: null
 author: null
